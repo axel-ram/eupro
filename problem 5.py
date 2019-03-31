@@ -3,13 +3,13 @@ import math
 def prime(x):
     tprimes = [True for i in range(x+1)]
     p=2
-    while(p*p<=n):
+    while(p*p<=x):
         if tprimes[p]:
-            for i in range(p+p,n+1,p):
+            for i in range(p+p,x+1,p):
                 tprimes[i]=False
         p+=1
     arr=[]
-    for i in range(2,n+1):
+    for i in range(2,x+1):
         if tprimes[i]:
             arr.append(i)
     return arr
