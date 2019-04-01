@@ -1,2 +1,5 @@
 # projectEuler
-Solving problems of projecteuler.net with programming.
+Solving problems of P R O J E C T E U L E R . N E T with programming.
+#Spaces so that my repository will not come in any search result.
+Let people solve these questions by themselves rather than copy paste :P
+
