@@ -1,5 +1,4 @@
 import math
-n=220
 majorsum=0
 for n in range(2,10001):
     k=2
